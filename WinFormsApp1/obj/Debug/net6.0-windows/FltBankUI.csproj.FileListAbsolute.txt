@@ -1,0 +1,660 @@
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.exe
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.deps.json
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.runtimeconfig.json
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.pdb
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.AssemblyReference.cache
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Dashboard.resources
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Login.resources
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.GenerateResource.cache
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.AssemblyInfoInputs.cache
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.AssemblyInfo.cs
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.CoreCompileInputs.cache
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\refint\FltBankUI.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.pdb
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.genruntimeconfig.cache
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\ref\FltBankUI.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Properties.Resources.resources
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Welcome.resources
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.TransferForm.resources
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.WithdrawForm.resources
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\FltBankCore.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\FltBankCore.pdb
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.CopyComplete
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Registeration.resources
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.CreateAccountForm.resources
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Azure.DevOps.Comments.WebApi.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Build2.WebApi.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Policy.WebApi.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Test.WebApi.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Wiki.WebApi.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Common.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\solan\Documents\demo\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.DepositForm.resources
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.exe
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.deps.json
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.runtimeconfig.json
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.pdb
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Azure.DevOps.Comments.WebApi.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Build2.WebApi.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Policy.WebApi.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Test.WebApi.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Wiki.WebApi.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Common.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\FltBankCore.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\bin\Debug\net6.0-windows\FltBankCore.pdb
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.CreateAccountForm.resources
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Dashboard.resources
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.DepositForm.resources
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Login.resources
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Properties.Resources.resources
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Registeration.resources
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.TransferForm.resources
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Welcome.resources
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.WithdrawForm.resources
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.GenerateResource.cache
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.AssemblyInfo.cs
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.CopyComplete
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\refint\FltBankUI.dll
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.pdb
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.genruntimeconfig.cache
+C:\Users\solan\Desktop\Original\WinFormsApp1\obj\Debug\net6.0-windows\ref\FltBankUI.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.exe
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.deps.json
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.runtimeconfig.json
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.pdb
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Azure.DevOps.Comments.WebApi.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Build2.WebApi.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Policy.WebApi.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Test.WebApi.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Wiki.WebApi.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Common.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\FltBankCore.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\bin\Debug\net6.0-windows\FltBankCore.pdb
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.CreateAccountForm.resources
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Dashboard.resources
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.DepositForm.resources
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Login.resources
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Properties.Resources.resources
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Registeration.resources
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.TransferForm.resources
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Welcome.resources
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.WithdrawForm.resources
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.GenerateResource.cache
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.AssemblyInfo.cs
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.CopyComplete
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\refint\FltBankUI.dll
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.pdb
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.genruntimeconfig.cache
+C:\Users\solan\Desktop\Original\FLT BANK\WinFormsApp1\obj\Debug\net6.0-windows\ref\FltBankUI.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.exe
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.deps.json
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.runtimeconfig.json
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.pdb
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Azure.DevOps.Comments.WebApi.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Build2.WebApi.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Policy.WebApi.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Test.WebApi.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Wiki.WebApi.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Common.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\FltBankCore.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\FltBankCore.pdb
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.AssemblyReference.cache
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.CreateAccountForm.resources
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Dashboard.resources
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.DepositForm.resources
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Login.resources
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Properties.Resources.resources
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Registeration.resources
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.TransferForm.resources
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Welcome.resources
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.WithdrawForm.resources
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.GenerateResource.cache
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.AssemblyInfoInputs.cache
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.AssemblyInfo.cs
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.CoreCompileInputs.cache
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.CopyComplete
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\refint\FltBankUI.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.pdb
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.genruntimeconfig.cache
+C:\Users\solan\Source\Repos\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\ref\FltBankUI.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.exe
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.deps.json
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.runtimeconfig.json
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.pdb
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Azure.DevOps.Comments.WebApi.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Build2.WebApi.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Policy.WebApi.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Test.WebApi.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Wiki.WebApi.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Common.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\FltBankCore.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\bin\Debug\net6.0-windows\FltBankCore.pdb
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.CreateAccountForm.resources
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Dashboard.resources
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.DepositForm.resources
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Login.resources
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Properties.Resources.resources
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Registeration.resources
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.TransferForm.resources
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Welcome.resources
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.WithdrawForm.resources
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.GenerateResource.cache
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.AssemblyInfo.cs
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.CopyComplete
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\refint\FltBankUI.dll
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.pdb
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.genruntimeconfig.cache
+C:\Users\solan\Desktop\week-4-task-promise206\WinFormsApp1\obj\Debug\net6.0-windows\ref\FltBankUI.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.exe
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.deps.json
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.runtimeconfig.json
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\FltBankUI.pdb
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Azure.DevOps.Comments.WebApi.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Build2.WebApi.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Policy.WebApi.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Test.WebApi.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Wiki.WebApi.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.TeamFoundation.Common.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\FltBankCore.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\bin\Debug\net6.0-windows\FltBankCore.pdb
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.AssemblyReference.cache
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.CreateAccountForm.resources
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Dashboard.resources
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.DepositForm.resources
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Login.resources
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Properties.Resources.resources
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.Registeration.resources
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.TransferForm.resources
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Welcome.resources
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.WithdrawForm.resources
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.GenerateResource.cache
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.AssemblyInfoInputs.cache
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.AssemblyInfo.cs
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.CoreCompileInputs.cache
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.csproj.CopyComplete
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\refint\FltBankUI.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.pdb
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\FltBankUI.genruntimeconfig.cache
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\WinFormsApp1\obj\Debug\net6.0-windows\ref\FltBankUI.dll

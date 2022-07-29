@@ -1,0 +1,72 @@
+C:\Users\solan\Documents\demo\FltBankCore\bin\Debug\net6.0\FltBankCore.deps.json
+C:\Users\solan\Documents\demo\FltBankCore\bin\Debug\net6.0\FltBankCore.dll
+C:\Users\solan\Documents\demo\FltBankCore\bin\Debug\net6.0\FltBankCore.pdb
+C:\Users\solan\Documents\demo\FltBankCore\obj\Debug\net6.0\FltBankCore.csproj.AssemblyReference.cache
+C:\Users\solan\Documents\demo\FltBankCore\obj\Debug\net6.0\FltBankCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Documents\demo\FltBankCore\obj\Debug\net6.0\FltBankCore.AssemblyInfoInputs.cache
+C:\Users\solan\Documents\demo\FltBankCore\obj\Debug\net6.0\FltBankCore.AssemblyInfo.cs
+C:\Users\solan\Documents\demo\FltBankCore\obj\Debug\net6.0\FltBankCore.csproj.CoreCompileInputs.cache
+C:\Users\solan\Documents\demo\FltBankCore\obj\Debug\net6.0\FltBankCore.dll
+C:\Users\solan\Documents\demo\FltBankCore\obj\Debug\net6.0\refint\FltBankCore.dll
+C:\Users\solan\Documents\demo\FltBankCore\obj\Debug\net6.0\FltBankCore.pdb
+C:\Users\solan\Documents\demo\FltBankCore\obj\Debug\net6.0\ref\FltBankCore.dll
+C:\Users\solan\Desktop\Original\FltBankCore\bin\Debug\net6.0\FltBankCore.deps.json
+C:\Users\solan\Desktop\Original\FltBankCore\bin\Debug\net6.0\FltBankCore.dll
+C:\Users\solan\Desktop\Original\FltBankCore\bin\Debug\net6.0\FltBankCore.pdb
+C:\Users\solan\Desktop\Original\FltBankCore\obj\Debug\net6.0\FltBankCore.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\Original\FltBankCore\obj\Debug\net6.0\FltBankCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\Original\FltBankCore\obj\Debug\net6.0\FltBankCore.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\Original\FltBankCore\obj\Debug\net6.0\FltBankCore.AssemblyInfo.cs
+C:\Users\solan\Desktop\Original\FltBankCore\obj\Debug\net6.0\FltBankCore.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\Original\FltBankCore\obj\Debug\net6.0\FltBankCore.dll
+C:\Users\solan\Desktop\Original\FltBankCore\obj\Debug\net6.0\refint\FltBankCore.dll
+C:\Users\solan\Desktop\Original\FltBankCore\obj\Debug\net6.0\FltBankCore.pdb
+C:\Users\solan\Desktop\Original\FltBankCore\obj\Debug\net6.0\ref\FltBankCore.dll
+C:\Users\solan\Desktop\Original\FLT BANK\FltBankCore\bin\Debug\net6.0\FltBankCore.deps.json
+C:\Users\solan\Desktop\Original\FLT BANK\FltBankCore\bin\Debug\net6.0\FltBankCore.dll
+C:\Users\solan\Desktop\Original\FLT BANK\FltBankCore\bin\Debug\net6.0\FltBankCore.pdb
+C:\Users\solan\Desktop\Original\FLT BANK\FltBankCore\obj\Debug\net6.0\FltBankCore.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\Original\FLT BANK\FltBankCore\obj\Debug\net6.0\FltBankCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\Original\FLT BANK\FltBankCore\obj\Debug\net6.0\FltBankCore.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\Original\FLT BANK\FltBankCore\obj\Debug\net6.0\FltBankCore.AssemblyInfo.cs
+C:\Users\solan\Desktop\Original\FLT BANK\FltBankCore\obj\Debug\net6.0\FltBankCore.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\Original\FLT BANK\FltBankCore\obj\Debug\net6.0\FltBankCore.dll
+C:\Users\solan\Desktop\Original\FLT BANK\FltBankCore\obj\Debug\net6.0\refint\FltBankCore.dll
+C:\Users\solan\Desktop\Original\FLT BANK\FltBankCore\obj\Debug\net6.0\FltBankCore.pdb
+C:\Users\solan\Desktop\Original\FLT BANK\FltBankCore\obj\Debug\net6.0\ref\FltBankCore.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\FltBankCore\bin\Debug\net6.0\FltBankCore.deps.json
+C:\Users\solan\Source\Repos\week-4-task-promise206\FltBankCore\bin\Debug\net6.0\FltBankCore.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\FltBankCore\bin\Debug\net6.0\FltBankCore.pdb
+C:\Users\solan\Source\Repos\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\FltBankCore.csproj.AssemblyReference.cache
+C:\Users\solan\Source\Repos\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\FltBankCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Source\Repos\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\FltBankCore.AssemblyInfoInputs.cache
+C:\Users\solan\Source\Repos\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\FltBankCore.AssemblyInfo.cs
+C:\Users\solan\Source\Repos\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\FltBankCore.csproj.CoreCompileInputs.cache
+C:\Users\solan\Source\Repos\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\FltBankCore.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\refint\FltBankCore.dll
+C:\Users\solan\Source\Repos\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\FltBankCore.pdb
+C:\Users\solan\Source\Repos\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\ref\FltBankCore.dll
+C:\Users\solan\Desktop\week-4-task-promise206\FltBankCore\bin\Debug\net6.0\FltBankCore.deps.json
+C:\Users\solan\Desktop\week-4-task-promise206\FltBankCore\bin\Debug\net6.0\FltBankCore.dll
+C:\Users\solan\Desktop\week-4-task-promise206\FltBankCore\bin\Debug\net6.0\FltBankCore.pdb
+C:\Users\solan\Desktop\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\FltBankCore.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\FltBankCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\FltBankCore.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\FltBankCore.AssemblyInfo.cs
+C:\Users\solan\Desktop\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\FltBankCore.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\FltBankCore.dll
+C:\Users\solan\Desktop\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\refint\FltBankCore.dll
+C:\Users\solan\Desktop\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\FltBankCore.pdb
+C:\Users\solan\Desktop\week-4-task-promise206\FltBankCore\obj\Debug\net6.0\ref\FltBankCore.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\FltBankCore\bin\Debug\net6.0\FltBankCore.deps.json
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\FltBankCore\bin\Debug\net6.0\FltBankCore.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\FltBankCore\bin\Debug\net6.0\FltBankCore.pdb
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\FltBankCore\obj\Debug\net6.0\FltBankCore.csproj.AssemblyReference.cache
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\FltBankCore\obj\Debug\net6.0\FltBankCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\FltBankCore\obj\Debug\net6.0\FltBankCore.AssemblyInfoInputs.cache
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\FltBankCore\obj\Debug\net6.0\FltBankCore.AssemblyInfo.cs
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\FltBankCore\obj\Debug\net6.0\FltBankCore.csproj.CoreCompileInputs.cache
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\FltBankCore\obj\Debug\net6.0\FltBankCore.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\FltBankCore\obj\Debug\net6.0\refint\FltBankCore.dll
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\FltBankCore\obj\Debug\net6.0\FltBankCore.pdb
+C:\Users\solan\Source\Repos\FLTBank-WinForm-Model\FltBankCore\obj\Debug\net6.0\ref\FltBankCore.dll
